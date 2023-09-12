@@ -1,4 +1,4 @@
-import "./classes/EdicionMascotas"
+import "./classes/Biblioteca"
 
 function main () {
 }
