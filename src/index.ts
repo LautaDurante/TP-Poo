@@ -1,5 +1,7 @@
+import "./classes/EdicionMascotas"
+
 function main () {
-  console.log('Hello World')
 }
 
 main()
+
